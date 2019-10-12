@@ -1,6 +1,7 @@
 # song-lyrics-by-rnn
 
-Program pulls Song Lyrics off of azlyrics.com, processess them, and makes its own song using a Markov Chain
 
-songs.py gets all the songs created by an artist  
-lyrics.py gets all the lyrics for every song created by an artist
+Uses a recursive neural network to generate songs based on speech patterns and vocabulary used by music artists in their previous songs. 
+
+
+
